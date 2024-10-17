@@ -24,7 +24,7 @@
 
 
 ## Programming languages 👨🏽‍💻
-<img src="https://skillicons.dev/icons?i=c#,latex&perline=14" />
+<img src="https://skillicons.dev/icons?i=latex&perline=14" />
 
 ## Software & Tools ⚒️
 <img src="https://skillicons.dev/icons?i=github,git,vscode,windows&perline=14" />
