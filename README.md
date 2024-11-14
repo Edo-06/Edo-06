@@ -27,7 +27,7 @@
 <img src="https://skillicons.dev/icons?i=cs,cpp,latex&perline=14" />
 
 ## Software & Tools ⚒️
-<img src="https://skillicons.dev/icons?i=github,git,vscode,windows,dotnet&perline=14" />
+<img src="https://skillicons.dev/icons?i=github,git,vscode,unity,windows,dotnet&perline=14" />
 
 
 
