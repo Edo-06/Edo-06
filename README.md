@@ -23,7 +23,7 @@
 </div>
 
 
-## Programming languages 👨🏽‍💻
+## Programming languages 
 <img src="https://skillicons.dev/icons?i=cs,cpp,latex&perline=14" />
 
 ## Software & Tools ⚒️
