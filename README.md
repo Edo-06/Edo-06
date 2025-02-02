@@ -16,9 +16,9 @@
 <div align="center">
 
 ### ⚙️ &nbsp;GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=Edo-06&theme=algolia&border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Edo-06&theme=algolia&border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Edo-06&theme=algolia&border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Edo-06&theme=blue_navy&border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Edo-06&theme=blue_navy&border=false)<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edo-06&theme=blue_navy&border=false&include_all_commits=false&count_private=false&layout=compact">
 
 </div>
 
