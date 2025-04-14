@@ -25,11 +25,13 @@
 
 
 ## Programming languages 
-<img src="https://skillicons.dev/icons?i=cs,cpp,py,latex&perline=14" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,py,js,html,css,latex&perline=14" />
 
 ## Software & Tools ⚒️
-<img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,unity,windows,dotnet&perline=14" />
-
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center">
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,unity,windows,dotnet&perline=14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="48" height="48" style="border-radius: 12%; margin: 2px; background: #512BD4; padding: 4px" alt="Blazor" />
+</div>
 
 
 ##
