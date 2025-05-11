@@ -27,6 +27,10 @@
 <!-- [![Estadísticas del lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=Edo-06&theme=radical&size_weight=0&count_weight=1&hide=CSS,HTML)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![committers.top badge](https://user-badge.committers.top/cuba/Edo-06.svg)](https://user-badge.committers.top/cuba/Edo-06) -->
+ 
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Edo-06&limit=5&theme=radical&combine_all_yearly_contributions=true)
+---
+[![](https://visitcount.itsvg.in/api?id=Edo-06&icon=0&color=11)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -42,11 +46,5 @@
 
 
 ##
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Edo-06&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Edo-06&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
