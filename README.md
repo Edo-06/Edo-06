@@ -7,7 +7,7 @@
 
 ## About Me
 <ul>
-  <li>👋 Hi, I'm <a href="Edo-06/Edo-06">Ailema</a></li>
+  <li>👋 Hi, I'm <a href="Edo-06">Ailema</a></li>
   <li>🌱 Currently, I'm learning C#.</li>
 </ul>
 
