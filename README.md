@@ -20,9 +20,9 @@
 
 [![Resumen del Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rb58853&theme=radical)](https://github.com/Edo-06)
 
-<!-- [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rb58853&show_icons=true&theme=radical)](https://github.com/rb58853) -->
+<!-- [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Edo-06&show_icons=true&theme=radical)](https://github.com/rb58853) -->
 
-[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=rb58853&theme=radical&row=1&column=5&hide=no-frame,stars)](https://github.com/Edo-06)
+[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Edo-06&theme=radical&row=1&column=5&hide=no-frame,stars)](https://github.com/Edo-06)
 
 <!-- [![Estadísticas del lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=rb58853&theme=radical&size_weight=0&count_weight=1&hide=CSS,HTML)](https://github.com/anuraghazra/github-readme-stats) -->
 
