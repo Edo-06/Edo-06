@@ -27,11 +27,9 @@
 <!-- [![Estadísticas del lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=Edo-06&theme=radical&size_weight=0&count_weight=1&hide=CSS,HTML)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![committers.top badge](https://user-badge.committers.top/cuba/Edo-06.svg)](https://user-badge.committers.top/cuba/Edo-06) -->
- 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Edo-06&limit=5&theme=radical&combine_all_yearly_contributions=true)
----
-[![](https://visitcount.itsvg.in/api?id=Edo-06&icon=0&color=11)](https://visitcount.itsvg.in)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Edo-06&show_icons=true&theme=radical)](https://github.com/Edo-06)
 
+ [![](https://visitcount.itsvg.in/api?id=Edo-06&icon=0&color=11)](https://visitcount.itsvg.in)
 </div>
 
 
@@ -44,7 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="48" height="48" style="border-radius: 12%; margin: 2px; background: #512BD4; padding: 4px" alt="Blazor" />
 </div>
 
-
 ##
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Edo-06&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+[![Estadísticas del lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=Edo-06&theme=radical&layout=compact&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
