@@ -13,9 +13,22 @@
 
 ## 
 
+
+
+## Programming languages 
+<img src="https://skillicons.dev/icons?i=cs,cpp,py,js,html,css,latex&perline=14" />
+
+
+
+## Software & Tools ⚒️
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center">
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,unity,windows,dotnet&perline=14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="48" height="48" style="border-radius: 12%; margin: 2px; background: #512BD4; padding: 4px" alt="Blazor" />
+</div>
+
 ## Github Stats
 
-<div align = "center">
+<div align = "center" >
 <img width="1200" height="auto" src="https://streak-stats.demolab.com?user=Edo-06&theme=radical&hide_border=false&border_radius=5&card_width=1200">
 
 [![Resumen del Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edo-06&theme=radical)](https://github.com/Edo-06)
@@ -30,16 +43,6 @@
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Edo-06&show_icons=true&theme=radical)](https://github.com/Edo-06)
 
  [![](https://visitcount.itsvg.in/api?id=Edo-06&icon=0&color=11)](https://visitcount.itsvg.in)
-</div>
-
-
-## Programming languages 
-<img src="https://skillicons.dev/icons?i=cs,cpp,py,js,html,css,latex&perline=14" />
-
-## Software & Tools ⚒️
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,unity,windows,dotnet&perline=14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="48" height="48" style="border-radius: 12%; margin: 2px; background: #512BD4; padding: 4px" alt="Blazor" />
 </div>
 
 ##
