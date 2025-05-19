@@ -41,6 +41,8 @@
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Edo-06&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <!-- [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Edo-06&show_icons=true&theme=radical)](https://github.com/Edo-06) -->
 
-[![Estadísticas del lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=Edo-06&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Estadísticas de Lenguaje](https://github-readme-stats.vercel.app/api/top-langs?username=Edo-06&langs_count=999&layout=compact&theme=radical&hide_title=false&hide_border=false)
+<!--[![Estadísticas del lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=Edo-06&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edo-06&hide_title=false&layout=compact&card_width=320&langs&theme=radical&hide_border=false" height="150"/>
 <!--[![Estadísticas del lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=Edo-06&theme=radical&size_weight=0&count_weight)](https://github.com/anuraghazra/github-readme-stats)  -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
