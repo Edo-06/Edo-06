@@ -1,8 +1,3 @@
-
-
-
-
-  
 <h2 align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Computer+Science+Student;Always%20learning%20new%20things" alt="Typing SVG" /></a></h2>
 
 ## About Me
@@ -46,6 +41,6 @@
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Edo-06&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <!-- [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Edo-06&show_icons=true&theme=radical)](https://github.com/Edo-06) -->
 
-[![Estadísticas del lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=Edo-06&theme=radical&layout=compact&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Estadísticas del lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=Edo-06&theme=radical&size_weight=0&count_weight=1&hide=CSS,HTML)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Estadísticas del lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=Edo-06&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Estadísticas del lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=Edo-06&theme=radical&size_weight=0&count_weight)](https://github.com/anuraghazra/github-readme-stats)  -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
