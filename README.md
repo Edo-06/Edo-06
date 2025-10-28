@@ -3,7 +3,6 @@
 ## About Me
 <ul>
   <li>👋 Hi, I'm <a href="Edo-06">Ailema</a></li>
-  <li>🌱 Currently, I'm learning C#.</li>
 </ul>
 
 ## 
@@ -11,7 +10,7 @@
 
 
 ## Programming languages 
-<img src="https://skillicons.dev/icons?i=cs,cpp,py,js,html,css,latex&perline=14" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,py,js,html,css,markdown,latex&perline=14" />
 
 
 
@@ -35,10 +34,7 @@
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Edo-06&show_icons=true&theme=radical)](https://github.com/Edo-06)
 
  [![](https://visitcount.itsvg.in/api?id=Edo-06&icon=0&color=11)](https://visitcount.itsvg.in)
-</div>
-
-##
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Edo-06&limit=5&theme=radical&combine_all_yearly_contributions=true)
+ ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Edo-06&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <!-- [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Edo-06&show_icons=true&theme=radical)](https://github.com/Edo-06) -->
 
 <!--![Estadísticas de Lenguaje](https://github-readme-stats.vercel.app/api/top-langs?username=Edo-06&langs_count=999&layout=compact&theme=radical&hide_title=false&hide_border=false)-->
@@ -46,3 +42,21 @@
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edo-06&hide_title=false&layout=compact&card_width=320&langs&theme=radical&hide_border=false" height="150"/>
 <!--[![Estadísticas del lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=Edo-06&theme=radical&size_weight=0&count_weight)](https://github.com/anuraghazra/github-readme-stats)  -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## Competitive programming 📊
+<div align="center">
+<a  href="https://codeforces.com/profile/your_handle">
+  <img width="300" height="auto" align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=edo06&theme=radical" alt="Codeforces Stats Card"/>
+</a>
+</div>
+
+## Connect with Me
+
+<p align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-%40A06120-0088cc.svg)](https://t.me/A06120)
+[![Telegram](https://img.shields.io/badge/Gmail-%40ailemamr04@gmail.com-ff0000.svg)](ailemamr04@gmail.com)
+
+</p>
+
