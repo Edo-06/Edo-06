@@ -46,7 +46,7 @@
 
 ## Competitive programming 📊
 <div align="center">
-<a  href="https://codeforces.com/profile/your_handle">
+<a  href="https://codeforces.com/profile/edo06">
   <img width="300" height="auto" align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=edo06&theme=radical" alt="Codeforces Stats Card"/>
 </a>
 </div>
