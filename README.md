@@ -22,14 +22,12 @@
 
 ## Github Stats
 
-<div align = "center" >
-<img width="1200" height="auto" src="https://streak-stats.demolab.com?user=kanema06&theme=radical&hide_border=false&border_radius=5&card_width=1200">
+<div align = "center">
+<img width="1200" height="auto" src="https://streak-stats.demolab.com?user=Edo-06&theme=radical&hide_border=false&border_radius=5&card_width=1200">
 
 [![Resumen del Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edo-06&theme=radical)](https://github.com/Edo-06)
 
-
-[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Edo-06&theme=radical&row=1&column=5&hide=no-frame,stars)](https://github.com/Edo-06)
-
+[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Edo-06&theme=radical&row=1&column=5,stars)](https://github.com/Edo-06)
 <!-- [![committers.top badge](https://user-badge.committers.top/cuba/Edo-06.svg)](https://user-badge.committers.top/cuba/Edo-06) -->
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Edo-06&show_icons=true&theme=radical)](https://github.com/Edo-06)
 
