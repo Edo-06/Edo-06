@@ -43,6 +43,7 @@
 
 <!--![Estadísticas de Lenguaje](https://github-readme-stats.vercel.app/api/top-langs?username=Edo-06&langs_count=999&layout=compact&theme=radical&hide_title=false&hide_border=false)-->
 [![Estadísticas del lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=Edo-06&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edo-06&layout=compact)
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edo-06&hide_title=false&layout=compact&card_width=320&langs&theme=radical&hide_border=false" height="150"/>
 <!--[![Estadísticas del lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=Edo-06&theme=radical&size_weight=0&count_weight)](https://github.com/anuraghazra/github-readme-stats)  -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
