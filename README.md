@@ -15,9 +15,7 @@
 ## Software & Tools ⚒️
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center">
   <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,unity,windows,dotnet,vue,docker&perline=14" />
-  
   <br> 
-  
   <div style="display: flex; justify-content: center; align-items: center; gap: 8px;">
       <img src="https://cdn.simpleicons.org/plotly/276462" width="44" height="44" style="border-radius: 12%; margin: 2px; background: #512BD4; padding: 4px" alt="Plotly Dash" />
       <span style="font-size: 32px; color: #6e5494; padding: 0 4px;">&thinsp;</span> 
