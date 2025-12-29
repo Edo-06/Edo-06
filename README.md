@@ -21,13 +21,13 @@
       <span style="font-size: 32px; color: #6e5494; padding: 0 4px;">&thinsp;</span> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" style="border-radius: 12%; margin: 2px; background: #512BD4; padding: 4px" alt="Jupyter" />
       <span style="font-size: 32px; color: #6e5494; padding: 0 4px;">&thinsp;</span> 
-      <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" style="border-radius: 12%; margin: 2px; background: #512BD4; padding: 4px" alt="Pandas" />
+      <img src="https://cdn.simpleicons.org/pandas/150458" width="49" height="48" style="border-radius: 12%; margin: 2px; background: #512BD4; padding: 4px" alt="Pandas" />
       <span style="font-size: 32px; color: #6e5494; padding: 0 4px;"></span> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="44" height="48" style="border-radius: 12%; margin: 2px; background: #512BD4; padding: 4px" alt="Blazor" />
       <span style="font-size: 32px; color: #6e5494; padding: 0 4px;">&thinsp;</span> 
-      <img src="https://cdn.simpleicons.org/filament/FDAE4B" width="44" height="48" style="border-radius: 12%; margin: 2px; background: #512BD4; padding: 4px" alt="Filament" />
+      <img src="https://cdn.simpleicons.org/filament/FDAE4B" width="48" height="48" style="border-radius: 12%; margin: 2px; background: #512BD4; padding: 4px" alt="Filament" />
       <span style="font-size: 32px; color: #6e5494; padding: 0 4px;">&thinsp;</span> 
-      <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="44" height="48" style="border-radius: 12%; margin: 2px; background: #512BD4; padding: 4px" alt="Laravel" />
+      <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="48" height="48" style="border-radius: 12%; margin: 2px; background: #512BD4; padding: 4px" alt="Laravel" />
       <span style="font-size: 32px; color: #6e5494; padding: 0 4px;">&thinsp;</span> 
       <img src="https://cdn.simpleicons.org/mysql/4479A1" width="44" height="48" style="border-radius: 12%; margin: 2px; background: #512BD4; padding: 4px" alt="MySQL" />
       <span style="font-size: 32px; color: #6e5494; padding: 0 4px;">&thinsp;</span> 
