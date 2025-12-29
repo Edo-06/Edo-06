@@ -25,6 +25,8 @@
       <span style="font-size: 32px; color: #6e5494; padding: 0 4px;"></span> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="44" height="48" style="border-radius: 12%; margin: 2px; background: #512BD4; padding: 4px" alt="Blazor" />
       <span style="font-size: 32px; color: #6e5494; padding: 0 4px;">&thinsp;</span> 
+      <img src="https://cdn.simpleicons.org/filament/FDAE4B" width="44" height="48" style="border-radius: 12%; margin: 2px; background: #512BD4; padding: 4px" alt="Filament" />
+      <span style="font-size: 32px; color: #6e5494; padding: 0 4px;">&thinsp;</span> 
   </div>
 </div>
 
