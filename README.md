@@ -76,4 +76,4 @@
 
 </p>
 
-![Visitas](https://komarev.com/ghpvc/?username=Edo-06&color=ff5555&style=flat-square)
+<!-- ![Visitas](https://komarev.com/ghpvc/?username=Edo-06&color=ff5555&style=flat-square)-->
