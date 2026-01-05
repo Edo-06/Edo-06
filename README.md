@@ -38,7 +38,9 @@
 
 <div align = "center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Edo-06&theme=radical&card_width=700)](https://github.com/Edo-06)
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Edo-06&theme=radical" /></a>
+</p>
 
 [![Resumen del Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edo-06&theme=radical)](https://github.com/Edo-06)
 
